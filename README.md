@@ -1,7 +1,7 @@
 - 👋 Hello there, I'm Ann !
-- 👀 I’m interested in video games as well as game design.
+- 👀 I’m interested in AI, and video games as well as game design.
 - 📚 I'm an IT student at UTT, France.
-- 🌱 Currently learning JS, C and C#.
+- 🌱 Currently learning Rust, C and C#.
 - 📫 You can reach me at anouchka.neveu@gmail.com.
 - - - - - - - -
 - 🚺 Pronouns : she/her
