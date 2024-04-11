@@ -1,11 +1,11 @@
 - 👋 Hello there, I'm Ann !
 - 👀 I’m interested in AI, and video games as well as game design.
 - 📚 I'm an IT student at UTT, France.
-- 🌱 Currently learning Rust, C and C#.
+- 🌱 Currently practicing and learning C, C# and AI-oriented Python libraries (PyTorch, scikit, Tensorflow...).
 - 📫 You can reach me at anouchka.neveu@gmail.com.
 - - - - - - - -
 - 🚺 Pronouns : she/her
-- ✨ Fun fact : I've been video editing since something like 5 years.
+- ✨ Fun fact : I'm also a video editor on After Effects.
 
 <!---
 AnnNeveu/AnnNeveu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
